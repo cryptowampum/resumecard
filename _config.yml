@@ -1,11 +1,10 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
-favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+title: Russell Castagnaro's Experience
+description: Russell Castagnaro is an eCommerce Revolutionary and the CEO of Wampei, Inc (wampei.com)
+favicon: /assets/img/russell_sm.jpg
+baseurl: ""
+url: https://wampum.github.io/resumecard
 rss_url: /pages/atom.xml
-google_analytics: UA-63653234-1
 
 # Build settings
 markdown: kramdown
@@ -14,72 +13,107 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang#gmail.com
-  link: http://ddbullfrog.com
+  name: Russell Castagnaro
+  title: CEO Wampei Inc
+  address: Denver, CO
+  email: russell@castagnaro.com
+  link: http://castagnaro.com/cv
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  github: cryptowampum
+  linkedin: russell-castagnaro-6231553
+  twitter: rcastag
+  gavatar: /resumecard/assets/img/russell_sm.png
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: XXX Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Wampei, Inc
+      location: Denver, Co
+      title: CEO
+      started: 2017
+      duration: (2017 - Present)
+      description: CEO and Cofounder of Wampei Inc, Cryptocommerce enabling software that allows all businesses to accept electronic payments without a bank or third party.  Provides the overall vision.  Presents to investors, customers, and the public.
     - work2:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: NICUSA, INC
+      location: Honolulu, HI
+      title: Director of Digital Services
+      started: 2016
+      duration: (2016 - 2017)
+      description: Evangelize electronic government services nationally.  Act as subject matter expert on state eGovernment initiatives.
     - work3:
-      company: XXX Ltd
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      company: Hawai’i Information Consortium, LLC (NICUSA subsidiary)
+      location: Honolulu, HI
+      title: President/ General Manger
+      started: 2007
+      duration: (2007 - 2016)
+      description: Manage a diverse team of 34 employees plus 20 contractors who process over $2B in payments per year, maintain and enhance over 115 self-funded eGovernment services.
+    - work4:
+      company: Hawai’i Information Consortium, LLC (NICUSA subsidiary)
+      location: Honolulu, HI
+      title: Director of Portal Operations
+      started: 2004
+      duration: (2004 - 2007)
+      description: Managed all operations and compliance with Payment Card Industry Digital Security Standards (PCI DSS), Sarbanes-Oxley Act regulations, Health Insurance Portability and Accountability, and Generally Accepted Accounting Principles.  Responsible for fostering new partner relationships with and services for the state of Hawai’i and its counties.
+    - work5:
+      company: Hawai’i Information Consortium, LLC (NICUSA subsidiary)
+      location: Honolulu, HI
+      title: Director of Development
+      started: 2003
+      duration: (2003 - 2004)
+      description: Served as primary decision maker and lead the technical team for technology infrastructure.  Responsible for planning, designing and managing the implementation of a centralized web-based payment processing system responsible for handling the majority of online payments made to Hawai’i state and County government agencies.
+
   educationHistory:
     - education1:
-      organization: XXXXXX University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      organization: University of North Dakota
+      location: Grand Forks, ND
+      degree: Master of Science
+      major: Space Science
+      started: 1999
+      duration: (1999 - 2002)
+      description: 
+    - education2:
+      organization: Emory University
+      location: Atlanta, Ga
+      degree: Bachelor of Arts
+      major: Economics
+      started: 1986
+      duration: (1986 - 1990)
+      description: 
   languages:
     - language1:
-      name: Chinese
-      proficiency: Native
-    - language2:
       name: English
-      proficiency: Professional
-    - language3:
-      name: Japanese
-      proficiency: Limit
+      proficiency: Native
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Leadership 
       percentage: 100%
     - skill2:
-      name: Bootstrap
-      percentage: 90%
+      name: Stewardship 
+      percentage: 95%
     - skill3:
-      name: JavaScript
-      percentage: 70%
+      name: Public Speaking 
+      percentage: 100%
     - skill4:
-      name: AngularJS
-      percentage: 70%
-    - skill5:
-      name: Java/Java EE
+      name: AWS Cloud Services 
       percentage: 90%
+    - skill5:
+      name: eCommerce
+      percentage: 100%
+    - skill6:
+      name: eGovernment
+      percentage: 100%
+    - skill7:
+      name: Java/ Java EE
+      percentage: 70%
+    - skill8:
+      name: Cloud Architecture
+      percentage: 90%
+    - skill9:
+      name: Payments
+      percentage: 100%
+    - skill10:
+      name: Blockchain
+      percentage: 80%
+    - skill11:
+      name: Bitcoin
+      percentage: 80%
